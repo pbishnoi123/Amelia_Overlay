@@ -1,8 +1,7 @@
 {
-  "originUrl": "https://metlife.dev.amelia.com/",
-  "ameliaUrl": "https://metlife.dev.amelia.com/Amelia/ui/AmeliaCust/4/chat",
-  "chatUrl": "https://metlife.dev.amelia.com/Amelia/ui/AmeliaCust/4/chat",
-  "parentUrl": "https://metlife.dev.amelia.com/",
+  "ameliaUrl": "https://bcbsma.dev.amelia.com/Amelia/ui/BCBSMAdev/",
+  "chatUrl": "https://bcbsma.dev.amelia.com/Amelia/ui/",
+  "parentUrl": "https://www.bluecrossma.org/",
   "actions": {
     "nav_online-performance-savings-account": {
       "url": "https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/"
