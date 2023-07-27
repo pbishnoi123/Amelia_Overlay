@@ -158,7 +158,7 @@ function sendMessage(data) {
      */
     console.log('Sending message')
     let receiverElem = document.getElementById('receiver').contentWindow;
-    //receiverElem.postMessage(data, ameliaUrl);
+    receiverElem.postMessage({actionType: 'ameliaConversationAttributes', actionData: {test: 'testing some stuff'}}, ameliaUrl);
     window.location.replace(ameliaUrl)
 }
 
