@@ -1,6 +1,6 @@
 {
-  "ameliaUrl": "https://bcbsma.dev.amelia.com/Amelia/ui/BCBSMAdev/",
-  "chatUrl": "https://bcbsma.dev.amelia.com/Amelia/ui/",
+  "ameliaUrl": "https://eyefinity.dev.amelia.com/Amelia/ui/test_buttons/1/chat/",
+  "chatUrl": "https://eyefinity.dev.amelia.com/Amelia/ui/test_buttons/1/chat/",
   "parentUrl": "https://www.bluecrossma.org/",
   "actions": {
     "nav_online-performance-savings-account": {
